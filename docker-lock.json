@@ -1,0 +1,34 @@
+{
+	"dockerfiles": {
+		"Dockerfile": [
+			{
+				"name": "fpco/stack-build-small",
+				"tag": "lts-14.6",
+				"digest": "96ea16a62503753d7d0091fe30e24ab11595638170c8e8c4868abeb18659732b"
+			},
+			{
+				"name": "ubuntu",
+				"tag": "18.04",
+				"digest": "646942475da61b4ce9cc5b3fadb42642ea90e5d0de46111458e100ff2c7031e6"
+			}
+		]
+	},
+	"composefiles": {
+		"docker-compose.yml": [
+			{
+				"name": "postgres",
+				"tag": "latest",
+				"digest": "0171a93d62342d2ab2461069609175674d2a1809a1ad7ce9ba141e2c09db1156",
+				"serviceName": "postgres",
+				"dockerfile": ""
+			},
+			{
+				"name": "redis",
+				"tag": "latest",
+				"digest": "1cfb205a988a9dae5f025c57b92e9643ec0e7ccff6e66bc639d8a5f95bba928c",
+				"serviceName": "redis",
+				"dockerfile": ""
+			}
+		]
+	}
+}
