@@ -18,7 +18,7 @@
 			{
 				"name": "postgres",
 				"tag": "latest",
-				"digest": "0cf5e35060a4a058a969288422d7f201340be7f065836a5c30df041d04a61f02",
+				"digest": "088af71a95638a970424c0870dab1ca734a9168be1f94a82a6e42c688f14e0a2",
 				"serviceName": "postgres",
 				"dockerfile": ""
 			},
