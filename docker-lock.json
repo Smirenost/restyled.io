@@ -25,7 +25,7 @@
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "34cc12eaf3915092d86454c23705346bf226b0ece606b8fc909b711c4d10b9ce",
+				"digest": "8b859fe07d22d19b9d5b4c99c1fddf4927e348daca5c3c3806e2759bf5a0e5ae",
 				"serviceName": "redis",
 				"dockerfile": ""
 			}
