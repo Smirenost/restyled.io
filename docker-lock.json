@@ -18,14 +18,14 @@
 			{
 				"name": "postgres",
 				"tag": "latest",
-				"digest": "840ac924b4281002353b62528f5342c560f9d4882aec0fe4ba018d99b85d6141",
+				"digest": "9288310efbb1973dc0b310ab0552799833b009ca8d2de057da8581392b41d387",
 				"serviceName": "postgres",
 				"dockerfile": ""
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "a073f0cbccba78d6cc70c5364e9c7e7a8010cb0706f10bd66de1fad219f05f25",
+				"digest": "91aef272c7b25e27d0f381ea6bca3e512e94b4922fcb5edb06217c508bc62007",
 				"serviceName": "redis",
 				"dockerfile": ""
 			}
