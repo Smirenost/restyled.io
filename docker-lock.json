@@ -18,13 +18,13 @@
 			{
 				"name": "postgres",
 				"tag": "latest",
-				"digest": "e186f119d4077edef7c9f6e5a79e032476c069e1a373c7c61438c36d7fec2ebf",
+				"digest": "265f097c9b92222fedeb71eb2b48267f5669eeaf9ebf65f3437038e137a40013",
 				"service": "postgres"
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "e2ae53ef2864fca0a117f9b80f287e2890dd1036271dd363c20b9dfc54a8664c",
+				"digest": "98d88fcb6a297220b3084b4f0085a16497334f8f4c22f5c8c2d01033d473cb98",
 				"service": "redis"
 			}
 		]
