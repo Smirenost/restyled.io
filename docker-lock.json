@@ -4,12 +4,12 @@
 			{
 				"name": "fpco/stack-build-small",
 				"tag": "lts-14.6",
-				"digest": "96ea16a62503753d7d0091fe30e24ab11595638170c8e8c4868abeb18659732b"
+				"digest": ""
 			},
 			{
 				"name": "ubuntu",
 				"tag": "18.04",
-				"digest": "fd25e706f3dea2a5ff705dbc3353cf37f08307798f3e360a13e9385840f73fb3"
+				"digest": ""
 			}
 		]
 	},
@@ -18,13 +18,13 @@
 			{
 				"name": "postgres",
 				"tag": "latest",
-				"digest": "c846f37f65fd0d3d8b43040df5ebdc5856a038415b019ba596864848fb717a8b",
+				"digest": "",
 				"service": "postgres"
 			},
 			{
 				"name": "redis",
 				"tag": "latest",
-				"digest": "0f724af268d0d3f5fb1d6b33fc22127ba5cbca2d58523b286ed3122db0dc5381",
+				"digest": "",
 				"service": "redis"
 			}
 		]
